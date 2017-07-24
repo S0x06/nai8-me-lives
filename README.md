@@ -16,3 +16,4 @@
 视频地址：https://segmentfault.com/l/1500000010018488
 
 ## 2-17-07-24 PhpStorm开发神器中那些给力的功能讲解
+视频地址：https://segmentfault.com/l/1500000010180330

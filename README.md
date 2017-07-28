@@ -15,5 +15,5 @@
 ## 2017-07-18 Yii2之rbac（基于角色的权限管理）-- RBAC
 视频地址：https://segmentfault.com/l/1500000010018488
 
-## 2-17-07-24 PhpStorm开发神器中那些给力的功能讲解
+## 2017-07-24 PhpStorm开发神器中那些给力的功能讲解
 视频地址：https://segmentfault.com/l/1500000010180330

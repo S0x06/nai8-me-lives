@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Hello",
+    "version": "1.0",
+    "description": "第一个Chrome扩展程序。",
+    "icons": {
+        "16": "images/icon16.png"
+    },
+    "browser_action": {
+        "default_title": "Hello Chrome Title",
+        "default_popup": "pop.html"
+    }
+}

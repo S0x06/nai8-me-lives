@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "后台常驻",
+    "version": "1.0",
+    "description": "没3秒弹出一个对话框",
+    "background":{
+        "scripts": [
+            "js/jquery.js",
+            "js/alert.js"
+        ]
+    }
+}

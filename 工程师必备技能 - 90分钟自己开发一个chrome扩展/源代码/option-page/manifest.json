@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "改变VIP",
+    "version": "1.0",
+    "description": "改变VIP内容",
+    "content_scripts": [
+        {
+            "matches": ["http://nai8.me/*"],
+            "js": ["js/jquery.js","js/change.js"]
+        }
+    ]
+}

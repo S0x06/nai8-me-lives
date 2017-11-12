@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "跨域获取信息",
+    "version": "1.0",
+    "description": "获取一些站点外站信息",
+    "browser_action": {
+        "default_title": "跨域获取信息",
+        "default_popup": "pop.html"
+    },
+    "permissions":[
+        "http://nai8.me/*"
+    ]
+}

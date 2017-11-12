@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "数据存储",
+    "version": "1.0",
+    "description": "数据存储方法",
+    "icons": {
+        "16": "images/icon16.png"
+    },
+    "browser_action": {
+        "default_title": "Hello Chrome Title",
+        "default_popup": "pop.html"
+    },
+    "background":{
+        "scripts": [
+            "js/jquery.js",
+            "js/background.js"
+        ]
+    },
+    "content_scripts": [{  
+        "matches": ["<all_urls>"],  
+        "js": ["js/content.js"]  
+    }] 
+}
